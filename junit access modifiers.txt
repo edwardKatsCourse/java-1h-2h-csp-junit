@@ -1,0 +1,22 @@
+jUnit
+
+main
+	com
+		company
+			Car
+			Person
+				public void method
+				protected void method
+				void method
+				private void method
+test
+	com
+		company
+			PersonTest
+				public void test1Test
+				public void test2Test
+				
+	com
+		company
+			Person
+			PersonTest
